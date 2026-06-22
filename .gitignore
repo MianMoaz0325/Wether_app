@@ -1,0 +1,23 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+android/app/build/
+
+# iOS
+ios/Pods/
+ios/build/
+Pods/
+
+# Misc
+*.log
+*.lock
+
+# IDE
+.vscode/
+.idea/
+*.imlgit rm -r --cached .
